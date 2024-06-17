@@ -1,6 +1,9 @@
 •	👋 Hola, soy Esteban Guzmán.
+
 •	👀 Estoy interesado en la Tecnología Educativa.
+
 •	🌱Actualmente estoy aprendiendo metodologías ágiles.
+
 •	📫 Puedes contactarme al correo “esteban@uninnova.mx”
 
 <!---

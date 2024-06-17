@@ -4,7 +4,7 @@
 
 •	🌱Actualmente estoy aprendiendo metodologías ágiles.
 
-•	📫 Puedes contactarme al correo “esteban@uninnova.mx”
+•	📫 Puedes contactarme al correo esteban@uninnova.mx
 
 <!---
 EGA96-15/EGA96-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
